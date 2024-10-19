@@ -2,14 +2,21 @@
 
 1. Get Users
 
-  getUserId();
+```bash
+getUserId();
+```
+  
 
 
 2. Fetch Movies from specific Libreary
 
-  fetchMovies();
 
+```bash
+fetchMovies();
+```
 
 2. Get All Library
 
-  getAllLibraryId();
+```bash
+getAllLibraryId();
+```
