@@ -36,7 +36,7 @@ async function fetchMovies() {
         console.error(`Erreur: ${err.message}`);
     }
 }
-fetchMovies();
+// fetchMovies();
 
 
 async function getAllLibraryId() {
